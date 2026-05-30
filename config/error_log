@@ -1,0 +1,24 @@
+[23-Dec-2024 15:20:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/elitede1/ecom2.elitedesign.com.bd/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/elitede1/ecom2.elitedesign.com.bd/config/app.php on line 16
+[03-Apr-2025 04:11:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/creativedesignbd/ecommerce9.creativedesign.com.bd/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/creativedesignbd/ecommerce9.creativedesign.com.bd/config/app.php on line 16
+[03-Apr-2025 21:47:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/creativedesignbd/ecommerce9.creativedesign.com.bd/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/creativedesignbd/ecommerce9.creativedesign.com.bd/config/app.php on line 16
+[05-Apr-2025 19:51:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/creativedesignbd/ecommerce9.creativedesign.com.bd/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/creativedesignbd/ecommerce9.creativedesign.com.bd/config/app.php on line 16
+[06-Apr-2025 12:55:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/creativedesignbd/ecommerce9.creativedesign.com.bd/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/creativedesignbd/ecommerce9.creativedesign.com.bd/config/app.php on line 16
+[05-May-2025 14:46:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/creativedesignbd/ecommerce9.creativedesign.com.bd/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/creativedesignbd/ecommerce9.creativedesign.com.bd/config/app.php on line 16
